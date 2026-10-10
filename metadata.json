@@ -1,0 +1,6 @@
+{
+  "name": "FinPulse - Expense Tracker & Personal Finance Advisor",
+  "description": "Personal finance management and intelligent advisory web application with income & expense tracking, budget management, analytics, and automated 50/30/20 financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

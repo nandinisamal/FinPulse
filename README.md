@@ -1,5 +1,5 @@
 # FinPulse — Expense Tracker & Personal Finance Advisor
-### Final-Year Computer Engineering Capstone Project & Portfolio
+
 
 FinPulse is an enterprise-grade full-stack personal finance management and intelligent advisory web application built from scratch. It features strict session-based authentication with BCrypt hashing, atomic financial CRUD operations with `BigDecimal` precision, category budgeting with active threshold alerts, multi-month spending trend visualization with Chart.js, and a deterministic, rule-based 50/30/20 personal finance advisor.
 
